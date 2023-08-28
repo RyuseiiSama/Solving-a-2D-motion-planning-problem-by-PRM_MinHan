@@ -17,7 +17,7 @@ N_OBSTACLES = 5
 ![msg631197280-690834](https://github.com/RyuseiiSama/Solving-a-2D-motion-planning-problem-by-PRM_MinHan/assets/84442508/13dfd6c2-281e-4c0e-b789-5043a8ca55b2)  
 
 
-N_OBSTACLES = 6
+N_OBSTACLES = 6  
 ![msg631197280-690862](https://github.com/RyuseiiSama/Solving-a-2D-motion-planning-problem-by-PRM_MinHan/assets/84442508/bd600b2b-cb0d-497d-a947-7bbb865bc114)
 
 

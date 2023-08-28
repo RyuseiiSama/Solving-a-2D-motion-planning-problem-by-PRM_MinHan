@@ -2,7 +2,7 @@
 
 Use the following parameters to edit the bounds and parameters of the PRM
 
-N = 10000  (Number of random nodes)
+N = 10000  (Number of random nodes) \n
 REFINE = 10 (Repetitions for post processing)
 MIN_R = 3 (Radius to search for neighbours)
 X_SIZE = 20 (Bounds of environment)
